@@ -8,7 +8,7 @@
   "server": {
     "ip": "bedbros.aternos.me",
     "port": 48040,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
