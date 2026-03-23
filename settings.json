@@ -1,14 +1,14 @@
 {
   "name": "OscarTheTeacher",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "oscar12826182",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "bedbros.aternos.me",
     "port": 48040,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
